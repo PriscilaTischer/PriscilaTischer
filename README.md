@@ -10,6 +10,7 @@ Sou uma profissional com mais de 10 anos de experiência em qualidade e processo
 ---
 
 🚀 **Habilidades e Tecnologias**
+![My Skills](https://skillicons.dev/icons?i=py,md,git)
 - **Linguagens:** Python (em desenvolvimento)
 - **Áreas de Interesse:** Cibersegurança, Segurança da Informação, Análise de Dados.
 - **Metodologias:** Análise de Causa Raiz, Melhoria Contínua, Processos de Qualidade.
