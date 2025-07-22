@@ -1,4 +1,4 @@
-# Olá, meu nome é Priscila Tischer de Zottis! 👋
+# Olá, eu sou Priscila Tischer ✨
 
 Sou uma profissional com mais de 10 anos de experiência em qualidade e processos, e atualmente estou em uma emocionante jornada de transição de carreira para a área de Tecnologia, com foco em Cibersegurança.
 
@@ -17,4 +17,4 @@ Sou uma profissional com mais de 10 anos de experiência em qualidade e processo
 ---
 
 📫 **Como me Encontrar**
-- **LinkedIn:** [https://www.linkedin.com/in/seu-perfil-aqui/](https://www.linkedin.com/in/seu-perfil-aqui/)
+- **LinkedIn:** [https://www.linkedin.com/in/seu-perfil-aqui/](https://www.linkedin.com/in/priscila-tischer)
