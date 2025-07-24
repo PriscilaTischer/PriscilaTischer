@@ -5,13 +5,13 @@ Sou uma profissional com mais de 10 anos de experiência em qualidade e processo
 👩‍💻 **Sobre Mim**
 - 🎓 Cursando Bacharelado em Ciência e Tecnologia na **Universidade Federal de Itajubá (UNIFEI)**.
 - 🎯 Buscando uma oportunidade (estágio ou vaga de entrada) para aplicar minha mentalidade analítica e minha paixão por resolver problemas na proteção de ambientes digitais.
-- 🌱 Adoro aprender e estou constantemente me desafiando com novas tecnologias.
+- 🌱 Adoro aprender e estou constantemente me desafiando com novas tecnologias..
 
 ---
 
 🚀 **Habilidades e Tecnologias**
 ![My Skills](https://skillicons.dev/icons?i=py,md,git)
-- **Linguagens:** Python (em desenvolvimento)
+- **Linguagens:** Python 
 - **Áreas de Interesse:** Cibersegurança, Segurança da Informação, Análise de Dados.
 - **Metodologias:** Análise de Causa Raiz, Melhoria Contínua, Processos de Qualidade.
 
