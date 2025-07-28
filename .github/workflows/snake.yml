@@ -2,17 +2,14 @@ name: Generate Snake Animation
 
 on:
   schedule:
-    # Roda a cada 12 horas
     - cron: '0 */12 * * *'
-  # Permite que você rode manualmente pela aba Actions
   workflow_dispatch:
 
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout
-        uses: actions/checkout@v3
+      - uses: actions/checkout@v3
 
       - name: Generate snake animation
         uses: platane/snk@v3
