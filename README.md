@@ -20,6 +20,13 @@ Sou uma profissional com mais de 10 anos de experiência em qualidade e processo
 📫 **Como me Encontrar**
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/priscila-tischer/)
 
+---
+
+### 🐍 Minha Atividade no GitHub
+
+![Snake animation](https://github.com/PriscilaTischer/PriscilaTischer/blob/output/github-contribution-grid-snake.svg)
+
+
 
 
 
