@@ -24,7 +24,7 @@ Sou uma profissional com mais de 10 anos de experiência em qualidade e processo
 
 ### 🐍 Minha Atividade no GitHub
 
-![Snake animation](https://github.com/PriscilaTischer/PriscilaTischer/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/PriscilaTischer/PriscilaTischer/blob/output/github-contribution-grid-snake.svg?palette=github-dark)
 
 
 
