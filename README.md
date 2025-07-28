@@ -20,12 +20,6 @@ Sou uma profissional com mais de 10 anos de experiência em qualidade e processo
 📫 **Como me Encontrar**
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/priscila-tischer/)
 
----
-
-### 📊 Minha Atividade Recente
-
-<!--PACMAN:START-->
-<!--PACMAN:END-->
 
 
 
