@@ -19,3 +19,9 @@ Sou uma profissional com mais de 10 anos de experiência em qualidade e processo
 
 📫 **Como me Encontrar**
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/priscila-tischer/)
+
+
+<p align="center">
+  <img src="LINK_DO_GIF" alt="Aliens comendo planetas" width="600" />
+</p>
+
