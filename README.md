@@ -22,10 +22,10 @@ Sou uma profissional com mais de 10 anos de experiência em qualidade e processo
 
 ---
 
-### 🐍 Minha Atividade no GitHub
+### 📊 Minha Atividade Recente
 
-![Snake animation](https://raw.githubusercontent.com/PriscilaTischer/PriscilaTischer/output/github-contribution-grid-snake.svg)
-
+<!--PACMAN:START-->
+<!--PACMAN:END-->
 
 
 
