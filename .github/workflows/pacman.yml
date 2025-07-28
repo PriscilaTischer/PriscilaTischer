@@ -15,3 +15,11 @@ jobs:
         with:
           gh_token: ${{ secrets.GITHUB_TOKEN }}
           user_id: PriscilaTischer
+          # --- Novas opções de customização ---
+          # Define o tema para combinar com o gráfico do GitHub
+          theme: "github_dark"
+          # Define os personagens do jogo (seu ET!)
+          pacman_character: "👽"
+          ghost_characters: "⚫"
+          # Define a frase que aparece quando o jogo termina
+          game_over_message: "Atividade Concluída!"
