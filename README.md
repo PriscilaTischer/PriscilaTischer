@@ -44,16 +44,22 @@ Aqui estão algumas das tecnologias e conceitos com os quais estou trabalhando:
 
 ### 📂 Projetos em Destaque
 
+
+
 Confira alguns dos projetos em que estou trabalhando:
 
 -   **[Exercícios de Fundamentos de Python - SENAI](https://github.com/PriscilaTischer/exercicios-python-senai)**
     -   Repositório com soluções para os exercícios do curso de Python do SENAI, cobrindo lógica, estruturas de dados e operadores.
 
-*(Aqui você pode adicionar outros projetos conforme os desenvolve!)*
+-   **[Projeto Integrador com Arduino - UNIFEI](https://github.com/PriscilaTischer/unifei-projeto-integrador-arduino)**
+    -   Projeto acadêmico multidisciplinar desenvolvido na UNIFEI
+
 
 ---
+
 
 ### 📫 Como me Encontrar
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/priscila-tischer/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PriscilaTischer)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/priscila.tischer.dev/)
