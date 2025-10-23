@@ -13,10 +13,9 @@ Minha missão é aplicar uma mentalidade analítica e uma década de experiênci
 ---
 
 ### 🚀 Habilidades e Tecnologias
-![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=PriscilaTischer&layout=compact&langs_count=7&theme=dracula)
+
 
 Aqui estão algumas das tecnologias e conceitos com os quais estou trabalhando:
-
 
 
 <p align="left">
@@ -38,7 +37,7 @@ Aqui estão algumas das tecnologias e conceitos com os quais estou trabalhando:
 * **Dados & IA:** Análise de Dados (Pandas), Modelagem de Dados (SQL), Visualização (Power BI em estudo), Fundamentos de IA (Algoritmos de Busca, Agentes Inteligentes).
 * **Ferramentas:** Git, GitHub, Linux, Bash
 * **Competências de Processo:** Análise de Causa Raiz (RCA) aplicada a debugging, Mapeamento de Processos, Melhoria Contínua (PDCA).
-
+![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=PriscilaTischer&layout=compact&langs_count=7&theme=dracula)
 ---
 
 ### 📂 Projetos em Destaque
@@ -49,7 +48,7 @@ Aqui estão algumas das tecnologias e conceitos com os quais estou trabalhando:
 * **[Exercícios de Fundamentos de Python - SENAI](https://github.com/PriscilaTischer/exercicios-python-senai)**
     * Repositório com soluções para os exercícios do curso de Python do SENAI, cobrindo lógica, estruturas de dados e operadores.
 
-* **[Análise de Dados ou IA]**
+* **Análise de Dados ou IA**
     * Em Breve
 
 ---
