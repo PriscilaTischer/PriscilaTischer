@@ -50,10 +50,6 @@ Minha missão é aplicar uma mentalidade analítica e uma década de experiênci
 
 ---
 
-### 📊 Minhas Estatísticas no GitHub
-
-![Estatísticas de Priscila Tischer no GitHub](https://github-readme-stats.vercel.app/api?username=PriscilaTischer&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)
-![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=PriscilaTischer&layout=compact&langs_count=7&theme=dracula)
 
 
 
