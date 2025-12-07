@@ -34,7 +34,6 @@ Minha missão é aplicar uma mentalidade analítica e uma década de experiênci
 * **Ferramentas:** Git, GitHub, Linux, Bash
 * **Competências de Processo:** Análise de Causa Raiz (RCA) aplicada a debugging, Mapeamento de Processos, Melhoria Contínua (PDCA).
   
-![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=PriscilaTischer&layout=compact&langs_count=7&theme=dracula)
 
 
 ---
