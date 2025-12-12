@@ -1,6 +1,6 @@
 # Olá, eu sou Priscila Tischer ✨
 
-Sou desenvolvedora de software e estudante de Ciência e Tecnologia na UNIFEI, focada em **Dados, Inteligência Artificial e Desenvolvimento Back-End**. 
+Sou estudante de Ciência e Tecnologia na UNIFEI, focada em **Dados, Inteligência Artificial e Desenvolvimento Back-End**. 
 
 Minha missão é aplicar uma mentalidade analítica e uma década de experiência em resolução de problemas para construir sistemas de software eficientes e **inteligentes, orientados a dados**.
 
