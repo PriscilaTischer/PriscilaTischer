@@ -39,6 +39,11 @@ Sou estudante de Ciência e Tecnologia na UNIFEI, focada em **Dados, Inteligênc
 
 ### 📂 Projetos em Destaque
 
+
+* **[Projeto Integrador 2 – Monitoramento da Qualidade da Água](https://github.com/PriscilaTischer/projeto-integrador-2_monitoramento-da-agua_analise-de-dados)**
+    * Projeto acadêmico desenvolvido na UNIFEI com foco em análise de dados, dashboard interativo e integração com banco de dados MySQL.
+
+
 * **[Projeto Integrador com Arduino - UNIFEI](https://github.com/PriscilaTischer/unifei-projeto-integrador-arduino)**
     * Descrição: Projeto acadêmico multidisciplinar desenvolvido na UNIFE com Foco em lógica de programação com C++ e integração de hardware/software.
 
